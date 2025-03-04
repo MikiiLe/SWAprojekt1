@@ -1,3 +1,17 @@
-# SWAprojekt1
+# 🇻🇳 Vietnamská Restaurace - Webová aplikace
 
-projekt na VN restauraci
+Tento projekt je jednoduchá webová aplikace pro správu vietnamské restaurace.  
+Umožňuje zobrazit menu, spravovat nabídku přes administraci a chránit ji přihlášením.
+
+---
+
+## 📌 **Funkce**
+✅ Zobrazení jídelního lístku z databáze  
+✅ Administrace (přidání/smazání jídel)  
+✅ Přihlášení pro adminy (bezpečné ověření)  
+✅ Moderní design se zeleným pozadím  
+
+---
+
+## 📂 **Struktura souborů**
+
