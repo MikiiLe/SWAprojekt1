@@ -1,3 +1,3 @@
 # SWAprojekt1
 
-#projekt na VN restauraci
+projekt na VN restauraci
