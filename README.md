@@ -24,5 +24,7 @@ Přidat možnost editace jídel
 Vylepšit zabezpečení hesel (password_hash())
 Možnost nahrát fotky jídel
 
+---
+
 ##🔹 **Struktura ER diagramu**
 ![image](https://github.com/user-attachments/assets/acbfa32a-d038-42d1-9f5c-f96e7bb8469b)
