@@ -19,3 +19,8 @@ Uživatelksé jméno - admin
 Heslo - tajneheslo
 
 ---
+
+## 💡 **To-Do (vylepšení)**
+☑️ Přidat možnost editace jídel
+☑️ Vylepšit zabezpečení hesel (password_hash())
+☑️ Možnost nahrát fotky jídel
