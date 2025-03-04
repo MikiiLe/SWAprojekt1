@@ -20,10 +20,8 @@ Heslo - tajneheslo
 ---
 
 ## 💡 **To-Do (vylepšení)**
-✅ Zobrazení jídelního lístku z databáze  
-✅ Administrace (přidání/smazání jídel)  
-✅ Přihlášení pro adminy (bezpečné ověření)  
-✅ Moderní design se zeleným pozadím  
-☑️ Přidat možnost editace jídel
-☑️ Vylepšit zabezpečení hesel (password_hash())
-☑️ Možnost nahrát fotky jídel
+Přidat možnost editace jídel
+Vylepšit zabezpečení hesel (password_hash())
+Možnost nahrát fotky jídel
+
+
