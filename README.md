@@ -26,5 +26,5 @@ Možnost nahrát fotky jídel
 
 ---
 
-##🔹 **Struktura ER diagramu**
+## 🔹 **Struktura ER diagramu**
 ![image](https://github.com/user-attachments/assets/acbfa32a-d038-42d1-9f5c-f96e7bb8469b)
