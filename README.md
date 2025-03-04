@@ -14,5 +14,5 @@ Umožňuje zobrazit menu, spravovat nabídku přes administraci a chránit ji p�
 ---
 
 ## 🔑 **Přihlašovací údaje pro admina**
-Uživatelksé jméno: admin
-Heslo: tajneheslo
+Uživatelksé jméno - admin
+Heslo - tajneheslo
